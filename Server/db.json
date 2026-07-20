@@ -1,0 +1,126 @@
+{
+  "courses": {
+    "dQw4w9WgXcQ": {
+      "videoId": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "topics": [
+        {
+          "topicName": "Video Quality & Source",
+          "description": "Explanation of the 4K remaster process and why the original video was chosen for this tutorial.",
+          "textQuestionText": "What resolution is the remastered version of the video?",
+          "feynmanQuestionText": "Describe in your own words how remastering a video improves its quality."
+        },
+        {
+          "topicName": "Nostalgia & Cultural Impact",
+          "description": "Discussion of the song's iconic status, its release context in the 1980s, and its lasting influence on pop culture.",
+          "textQuestionText": "In which decade was 'Never Gonna Give You Up' originally released?",
+          "feynmanQuestionText": "Explain why 'Never Gonna Give You Up' became a cultural phenomenon."
+        },
+        {
+          "topicName": "Music Video Analysis",
+          "description": "Breakdown of the video's visual style, choreography, fashion, and how they reflect the 1980s aesthetic.",
+          "textQuestionText": "What visual elements in the video are most iconic?",
+          "feynmanQuestionText": "Describe the visual themes of the music video and how they connect to the 1980s."
+        },
+        {
+          "topicName": "Rickrolling Legacy",
+          "description": "Examination of the internet meme 'rickrolling,' its origins from this video, and its continued relevance today.",
+          "textQuestionText": "What is the internet term for tricking someone into clicking this video?",
+          "feynmanQuestionText": "Explain how this video became the foundation of an internet prank."
+        }
+      ],
+      "updatedAt": "2026-07-20T13:39:07.136Z"
+    },
+    "vwncYfhxbR0": {
+      "videoId": "vwncYfhxbR0",
+      "title": "Generative AI Full Course (Part 1 ) | Beginner to Advanced | LangChain, LLMs & Prompt Engineering",
+      "topics": [
+        {
+          "topicName": "Foundations of Generative AI",
+          "description": "Introduction to generative AI, its types, and key applications like text, image, and code generation.",
+          "textQuestionText": "What distinguishes generative AI from other types of AI models?",
+          "feynmanQuestionText": "Explain how a generative AI model creates new content from scratch in simple terms."
+        },
+        {
+          "topicName": "Large Language Models (LLMs) Basics",
+          "description": "Understanding LLMs, their architecture, and how they process and generate text based on training data.",
+          "textQuestionText": "What are the two main components of an LLM's architecture?",
+          "feynmanQuestionText": "Describe how an LLM predicts the next word in a sentence as if you were teaching a beginner."
+        },
+        {
+          "topicName": "Prompt Engineering & Zero-Shot Learning",
+          "description": "Techniques to craft effective prompts for LLMs, including zero-shot, few-shot, and chain-of-thought prompting.",
+          "textQuestionText": "Why is prompt engineering crucial for maximizing the performance of LLMs?",
+          "feynmanQuestionText": "Teach someone who knows nothing about AI how to write a prompt that gets accurate results from an LLM."
+        },
+        {
+          "topicName": "Introduction to LangChain",
+          "description": "Overview of LangChain, its components, and how it simplifies building applications with LLMs and external data sources.",
+          "textQuestionText": "What problem does LangChain solve when working with LLMs?",
+          "feynmanQuestionText": "Imagine you’re explaining LangChain to a friend who has never heard of it—how would you describe its role in AI projects?"
+        }
+      ],
+      "updatedAt": "2026-07-20T14:24:00.570Z"
+    }
+  },
+  "sessions": {
+    "anonymous": [
+      {
+        "videoId": "dQw4w9WgXcQ",
+        "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+        "duration": "0m",
+        "watchedAt": "Jul 20, 2026",
+        "capstoneScore": 25,
+        "totalWatchMinutes": 15,
+        "completedMilestones": [
+          1
+        ]
+      }
+    ],
+    "0a46ba46-5852-408e-87e1-6bbc9dbb116d": [
+      {
+        "videoId": "vwncYfhxbR0",
+        "title": "Generative AI Full Course (Part 1 ) | Beginner to Advanced | LangChain, LLMs & Prompt Engineering",
+        "duration": "0m",
+        "watchedAt": "Jul 20, 2026",
+        "capstoneScore": 0,
+        "totalWatchMinutes": 0,
+        "completedMilestones": []
+      }
+    ]
+  },
+  "quizzes": {
+    "anonymous": [
+      {
+        "videoId": "dQw4w9WgXcQ",
+        "topicName": "Nostalgia & Cultural Impact",
+        "questionType": "text",
+        "score": 70,
+        "date": "2026-07-20T13:39:57.098Z"
+      }
+    ],
+    "0a46ba46-5852-408e-87e1-6bbc9dbb116d": [
+      {
+        "videoId": "vwncYfhxbR0",
+        "topicName": "Generative AI Fundamentals",
+        "questionType": "text",
+        "score": 5,
+        "date": "2026-07-20T14:20:24.885Z"
+      },
+      {
+        "videoId": "vwncYfhxbR0",
+        "topicName": "Large Language Models (LLMs) Basics",
+        "questionType": "text",
+        "score": 10,
+        "date": "2026-07-20T14:21:35.457Z"
+      },
+      {
+        "videoId": "vwncYfhxbR0",
+        "topicName": "Large Language Models (LLMs) Basics",
+        "questionType": "text",
+        "score": 10,
+        "date": "2026-07-20T14:21:42.609Z"
+      }
+    ]
+  }
+}
