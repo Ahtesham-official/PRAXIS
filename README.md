@@ -627,8 +627,8 @@ Our vision is to make every educational video feel less like a lecture and more 
 ### Team Members
 
 * **Adityapratap Singh** — *Frontend Developer and UI/UX Designer*
-* **Ahtesham Shaikh** — *[Role]*
-* **Rajdeep Yadav** — *[Role]*
+* **Ahtesham Shaikh** — *Backend AI*
+* **Rajdeep Yadav** — *Backend API Routing*
 
 ---
 
